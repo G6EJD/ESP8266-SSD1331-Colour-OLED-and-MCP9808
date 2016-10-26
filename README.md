@@ -1,9 +1,9 @@
 # ESP8266-SSD1331-Colour-OLED-and-MCP9808
 
-This code enables a temeperature reading from the highly accurate MCP9808 temeperature sensor
-to be displayed on a colour 0.96" OLED using the SSD1331 chipset
+This code displays a temperature reading from the highly accurate MCP9808 temperature sensor
+on a colour 0.96" OLED using the SSD1331 chipset
 
-Installtion:
+Installation:
 
 1. Create a library folder called 'SSD1331' the name does not really matter for this folder
 2. Copy the updated files into the new folder: Adafruit_SSD1306.CPP and Adafruit_SSD1306.H
