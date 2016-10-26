@@ -8,7 +8,7 @@ Installation:
 1. Create a library folder called 'SSD1331' the name does not really matter for this folder
 2. Copy the updated files into the new folder: Adafruit_SSD1306.CPP and Adafruit_SSD1306.H
 3. Connect ESP8266 to SSD1331 display as per included diagram
-4. Connect MCP9890 to ESP8266 as per included diagram
+4. Connect MCP9890 to ESP8266 as per included diagram (or omit this device if not required)
 5. Compile code and upload to ESP8266 for the temperature display from the MCP9808
 
 Alternatively
