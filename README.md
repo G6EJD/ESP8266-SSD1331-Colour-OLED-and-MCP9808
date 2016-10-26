@@ -15,3 +15,6 @@ Alternatively
 
 6. Compile and upload 'ESP8266_Colour_OLED_SSD1331_Test.ino' that will demonstrate all of the OLED functions in colour
 7. Enjoy!
+
+Get a display from here: https://www.aliexpress.com/item/Free-Shipping-0-95-inch-7pin-Full-Color-65K-Color-ssd1331-OLED-Display-3-3v-5v/32646204260.html?spm=2114.01010208.0.0.VIMSHX
+
