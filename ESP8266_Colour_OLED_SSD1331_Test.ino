@@ -19,7 +19,7 @@
 
 // You can use any (4 or) 5 pins 
 #define sclk D5 //--- connect this to the display module SCL pin (Serial Clock)
-#define mosi D7 //--- connect this to the display module SDA pin (Seiral Data)
+#define mosi D7 //--- connect this to the display module SDA pin (Serial Data)
 #define rst  D6 //--- connect this to the display module RES pin (Reset)
 #define dc   D8 //--- connect this to the display module DC  pin (Data or Command)
 #define cs   D0 //--- connect this to the display module CS  pin (Chip Select)
